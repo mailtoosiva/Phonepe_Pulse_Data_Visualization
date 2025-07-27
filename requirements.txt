@@ -1,0 +1,6 @@
+pandas
+mysql-connector-python
+streamlit
+plotly
+GitPython # Optional, if you prefer programmatic git operations over subprocess
+python-dotenv # For loading environment variables from .env
